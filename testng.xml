@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TVA_Calculator_Suite" parallel="methods" thread-count="3">
+    <test name="TVA_Tests">
+        <classes>
+            <class name="com.firstproject.tests.TestCaseFile"/>
+        </classes>
+    </test>
+</suite>
