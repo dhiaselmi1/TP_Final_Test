@@ -175,9 +175,6 @@ Il contient :
 
 > Ouvrir le rapport : `start TP_Final/reports/run_<timestamp>/index.html` (Windows)
 
-### Compte rendu Word
-
-Un compte rendu de projet (`compte_rendu.docx`) est généré par `DocxReportGenerator.java` — page de garde, sommaire, sections, tableaux et captures d'écran intégrées.
 
 ---
 
